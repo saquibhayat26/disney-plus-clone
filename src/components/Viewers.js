@@ -29,7 +29,7 @@ const Container = styled.div`
   margin-top: 32px;
   padding: 32px 0 26px;
   display: grid;
-  grid-gap: 24px;
+  grid-gap: 24px; 
   grid-template-columns: repeat(5, minmax(0, 1fr));
 `;
 
